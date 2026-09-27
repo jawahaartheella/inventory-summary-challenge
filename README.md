@@ -50,9 +50,7 @@ Keep the test cases in the single parameterized array/loopstructure already set 
 - run "npx tsx challenge.ts" command, install if it asks anything
 ## OR 
 - Pick any online typescript compiler
-- edit the code run it and get the result on the go...
+- edit the code run it
 
 <img width="1197" height="93" alt="image" src="https://github.com/user-attachments/assets/5253c72f-a7ff-4e43-bb9f-3bb2e1804546" />
 You would see an error like above and that's intentional
-
-### Happy Coding 😊
