@@ -43,3 +43,16 @@ How to work in this file: since this sandbox runs a singleTypeScript file (not a
 #### Refactor — clean up naming and structure while keeping all tests green.
 
 Keep the test cases in the single parameterized array/loopstructure already set up — don't copy-paste separate blocks per scenario.
+
+## How to run
+- Download `challenge.ts` and run it in any TypeScript environment.
+- Make sure node is installed on your system
+- run "npx tsx challenge.ts" command, install if it asks anything
+## OR 
+- Pick any online typescript compiler
+- edit the code run it and get the result on the go...
+
+<img width="1197" height="93" alt="image" src="https://github.com/user-attachments/assets/5253c72f-a7ff-4e43-bb9f-3bb2e1804546" />
+You would see an error like above and that's intentional
+
+### Happy Coding 😊
